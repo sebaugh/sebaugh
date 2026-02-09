@@ -1,5 +1,10 @@
-- 👋 Hi, I’m @sebaugh I hold a bachelor's degree in Mathematics and Sociology, and I currently pursue a masters degree in Quantitative Methods and Information Systems. I'm interested in data science and social psychology with regard to decision making. I'm mostly experienced using R and Julia, currently working on improving in Julia based simulations and broad Machine Learning using Python.
-- 📫 How to reach email me at seb.halicki@gmail.com
+## 👋 Hi, I’m Sebastian
+
+I work at the intersection of data science, decision-making, and human behavior. With a background in Mathematics and Sociology, my work combines quantitative modeling, simulation, and machine learning to study complex systems and human–system interaction.
+
+I primarily use R and Julia for statistical modeling and simulation, and I am expanding into Python-based machine learning and AI methods. My current interests include simulation-based modeling, optimization, and computational approaches to behavioral and qualitative research.
+
+How to reach: email me at shalicki@uw.edu
 
 <!---
 sebaugh/sebaugh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
